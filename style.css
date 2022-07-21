@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.conatiner{
+    border-radius: 30px;
+border:8px solid rgb(235,242,252);
+}
+.container-expand-lg {
+height: 100px;
+width:90%;
+background-color: rgb(122,171,236);
+ border-radius: 30px;
+border:8px solid rgb(235,242,252);
+color:white;
+}
+.formSubmit{
+    border-radius: 30px;
+    border:8px solid rgb(235,242,252);
+}
+.row{
+background-color: rgb(122,171,236);
+ border-radius: 30px;
+border:8px solid rgb(235,242,252);
+color:white;
+}
